@@ -53,6 +53,5 @@ Participantes aparecem apenas como `PARTICIPANTE_001` e semelhantes. Universidad
 - `docs/ARCHITECTURE.md`: camadas e fluxo de dados
 - `docs/DATABASE.md`: banco, views e regras de contagem
 - `docs/DATA_MODEL.md`: formato dos arquivos de importação
-- `docs/DEPLOY.md`: GitHub e Streamlit Community Cloud
 - `docs/USER_GUIDE.md`: uso da plataforma
 - `docs/CHANGELOG.md`: histórico de versões
