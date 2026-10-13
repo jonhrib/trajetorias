@@ -81,7 +81,6 @@ a { color: var(--destaque-texto) !important; }
 [data-testid="stSidebar"] [data-testid="stSidebarNavLink"][aria-current="page"] { background: color-mix(in srgb, var(--destaque) 18%, transparent) !important; }
 [data-testid="stSidebar"] [data-testid="stSidebarNavLink"][aria-current="page"] span { color: var(--texto) !important; font-weight: 600; }
 [data-testid="stSidebarNavSeparator"], [data-testid="stNavSectionHeader"], [data-testid="stSidebarNav"] header { color: var(--texto3) !important; }
-[data-testid="stSidebarNav"] span[data-testid="stHeaderActionElements"] { display: none; }
 
 .marca { display: flex; gap: 10px; align-items: center; padding: 6px 4px 14px; }
 .marca svg {width: 42px; height: auto; flex: none; display: block; }
