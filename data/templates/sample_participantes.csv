@@ -1,0 +1,9 @@
+codigo,universidade,curso,municipio,empresa_junior,vinculo_ej,situacao_academica,etapa_curso,perfil
+PARTICIPANTE_001,UEM,Ciência da Computação,Maringá,Main,Ex-membro,Cursando,4º ano ou mais,Desejo de desistência
+PARTICIPANTE_002,UNESPAR,Ciência da Computação,Paranavaí,,Sem vínculo,Cursando,4º ano ou mais,Permanência
+PARTICIPANTE_003,UNICENTRO,Sistemas de Informação,Irati,Pegasus,Ex-membro,Cursando,1º ano,Desejo de desistência
+PARTICIPANTE_004,UNICENTRO,Ciência da Computação,Guarapuava,Pegasus,Ex-membro,Evadido,2º ano,Evasão
+PARTICIPANTE_005,UNIOESTE,Ciência da Computação,Cascavel,Therion,Membro atual,Evadido,1º ano,Evasão
+PARTICIPANTE_006,UEL,Ciência da Computação,Londrina,OCCAM,Membro atual,Cursando,1º ano,Desejo de desistência
+PARTICIPANTE_007,UFPR,Análise e Desenvolvimento de Sistemas,Curitiba,,Sem vínculo,Cursando,3º ano,Permanência
+PARTICIPANTE_008,UNESPAR,Ciência da Computação,Apucarana,,Sem vínculo,Concluído,3º ano,Permanência

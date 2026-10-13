@@ -1,0 +1,29 @@
+tema,nome,tipo
+T01,Baixa identificação com o curso,Evasão
+T01,Afinidade com a área de tecnologia,Permanência
+T02,Carga elevada de atividades,Evasão
+T02,Organização da rotina de estudos,Permanência
+T03,Reprovação em disciplinas básicas,Evasão
+T03,Apoio acadêmico e monitoria,Permanência
+T04,Jornada de trabalho incompatível com as aulas,Evasão
+T04,Flexibilidade para trabalhar e estudar,Permanência
+T05,Dificuldade para custear a permanência,Evasão
+T05,Bolsas e auxílios estudantis,Permanência
+T06,Oportunidades de emprego antes da formatura,Evasão
+T06,Valorização do diploma e da formação,Permanência
+T07,Dificuldade de integração com a turma,Evasão
+T07,Vínculos com colegas,Permanência
+T08,Pouca proximidade com docentes,Evasão
+T08,Acolhimento de docentes e coordenação,Permanência
+T09,Falta de apoio da família ao curso,Evasão
+T09,Apoio da família,Permanência
+T10,Sobrecarga com atividades extracurriculares,Evasão
+T10,Vivências práticas e pertencimento na Empresa Júnior,Permanência
+T10,Participação em extensão e pesquisa,Permanência
+T11,Desgaste emocional,Evasão
+T11,Estratégias de cuidado e descanso,Permanência
+T11,Insegurança quanto à própria capacidade,Evasão
+T12,Perda de motivação,Evasão
+T12,Projeto de futuro claro,Permanência
+T13,Limitações de infraestrutura,Evasão
+T13,Estrutura de apoio da instituição,Permanência

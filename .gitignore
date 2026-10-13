@@ -1,0 +1,58 @@
+# Segredos e chaves
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.secret
+.streamlit/secrets.toml
+chave.key
+mapeamentos.enc
+
+# Dados sensíveis da pesquisa
+transcricoes/brutas/
+transcricoes/processadas/
+transcricoes/mapeamentos/
+mapeamentos/
+entrevistas/
+audios/
+*.wav
+*.mp4
+*.mkv
+*.mov
+
+# Bancos gerados (recriados na inicialização)
+*.db
+*.sqlite
+*.sqlite3
+data/db/*
+!data/db/.gitkeep
+
+# Dados oficiais: por padrão fora do repositório. Para publicar em repositório
+# privado, remova a linha abaixo e confirme que os arquivos estão anonimizados.
+data/oficial/*
+!data/oficial/.gitkeep
+!data/oficial/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Arquivos temporários, logs e pessoais
+*.log
+logs/
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+notas_pessoais/
+*.docx

@@ -1,0 +1,14 @@
+codigo,nome,dimensao,descricao
+T01,Identificação com o curso,Acadêmica,Relatos sobre a escolha do curso e a afinidade com a área de tecnologia.
+T02,Carga de estudos e ritmo do curso,Acadêmica,"Relatos sobre volume de atividades, prazos e organização da rotina de estudos."
+T03,Dificuldades nas disciplinas iniciais,Acadêmica,"Relatos sobre matemática, lógica e as primeiras disciplinas de programação."
+T04,Conciliação entre trabalho e graduação,Econômica,"Relatos sobre jornada de trabalho, estágio e disponibilidade para as aulas."
+T05,Condições financeiras e custos de permanência,Econômica,Relatos sobre custos de moradia e transporte e sobre bolsas e auxílios.
+T06,Mercado de trabalho e estágio,Econômica,Relatos sobre oportunidades profissionais e sobre o valor atribuído ao diploma.
+T07,Integração com colegas e vida acadêmica,Social,Relatos sobre relações com colegas e sentimento de pertencimento ao curso.
+T08,Relação com docentes e coordenação,Social,Relatos sobre acesso aos professores e sobre a comunicação com a coordenação.
+T09,Apoio familiar e rede de apoio,Social,Relatos sobre o papel da família e de outras pessoas próximas na trajetória.
+T10,Experiências extracurriculares e Empresa Júnior,Social,"Relatos sobre a participação em Empresa Júnior, extensão e pesquisa."
+T11,Bem-estar emocional e sobrecarga,Emocional,"Relatos sobre cansaço, preocupação com o desempenho e estratégias de cuidado."
+T12,Expectativas e motivação,Emocional,Relatos sobre motivação para concluir o curso e projeto de futuro.
+T13,Infraestrutura e organização institucional,Acadêmica,"Relatos sobre laboratórios, equipamentos, espaços de estudo e organização do curso."
